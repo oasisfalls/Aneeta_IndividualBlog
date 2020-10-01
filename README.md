@@ -1,6 +1,15 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 3
+This week I organized two meetings for my team. During our first meeting we worked on our GDD and I created the mockup of the home screen, options screen, and game over screen for the Functional Flowboard. I also filled out section 3 that defined the protagonist and antagonist. During our second meeting I had prepped our figma slides and assigned everyone a section based on what they worked on in the GDD. After that I submitted our final GDD, exported our slides, and prepared the template of the script so that I know when to switch slides when we are presenting in lab.
+
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/home.jpg)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/options.jpg)
+![myImage](https://raw.githubusercontent.com/oasisfalls/IAT410_SmoothBrain/master/weeklyPics/gameOver.jpg)
+
+**September 30th, 2020**
+
 ## :crystal_ball: Week 2
 Since there weren't any assignments due this week, I proposed a brief meeting to my team to go over and refine aspects of our game. My contribution to the meeting was more on the game aesthetic wise but also gave my opinions when suggestions were brought up about how we were going to tackle movement. 
 
