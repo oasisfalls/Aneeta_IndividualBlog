@@ -1,6 +1,11 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 4
+With no assignments due this week I tried to organize an earlier meeting than usual but unfortunately it didn't align with all our team members so we went with our regularly schedule Monday evenings, and during the meeting I created the google doc to put all of our meeting notes in. I didn't really bring up any ideas during this meeting, I mainly brought up concerns that I had based off of our presentation during the lab such as if our game was even fun and if we really had a premise. I didn't have a lot to start working on this week so I started C# tutorials for Unity to be able assist my team more on the programming side.
+
+**October 7th, 2020**
+
 ## :crystal_ball: Week 3
 This week I organized two meetings for my team. During our first meeting we worked on our GDD and I created the mockup of the home screen, options screen, and game over screen for the Functional Flowboard. I also filled out section 3 that defined the protagonist and antagonist. During our second meeting I had prepped our figma slides and assigned everyone a section based on what they worked on in the GDD. After that I submitted our final GDD, exported our slides, and prepared the template of the script so that I know when to switch slides when we are presenting in lab.
 
