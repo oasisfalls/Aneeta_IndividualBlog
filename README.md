@@ -1,6 +1,11 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 5
+During all of our meetings I created docs to keep track of any notes that we would need to know for later and prepared the docs for the GDD as well as the playtesting template. I updated the revisions for the GDD and completed two of the new questions that we had to incorporate and my team helped with the rest. Following that I formatted the playtesting document and the GDD and then combined them and submitted everything along with the zipped file of our game. My contribution this week was more towards orgaization and the two documents that needed to be handed in, but was also still participating in group discussions about what to add and opinions on our current prototype.
+
+**October 14th, 2020**
+
 ## :crystal_ball: Week 4
 With no assignments due this week I tried to organize an earlier meeting than usual but unfortunately it didn't align with all our team members so we went with our regularly schedule Monday evenings, and during the meeting I created the google doc to put all of our meeting notes in. I didn't really bring up any ideas during this meeting, I mainly brought up concerns that I had based off of our presentation during the lab such as if our game was even fun and if we really had a premise. I didn't have a lot to start working on this week so I started C# tutorials for Unity to be able assist my team more on the programming side.
 
