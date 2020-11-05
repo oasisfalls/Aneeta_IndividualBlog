@@ -1,6 +1,15 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 8
+
+My biggest contribution this week was the supplementary items such as the GDD and the Playtesting Report. I updated our GDD, although given our poor time management, I did not get to add a new updated functional flowboard, and forgot to add pictures in the visual cues component of the GDD. Everything else was completed, I ran one of the playtesting sessions as well and formatted the document properly.I prepared the slides for our presentation and also created the temporary tutorial splash screen that we currently have. In the following weeks I intend to help more on the programming side.
+
+###### Tutorial Splash Screen
+![myImage](https://raw.githubusercontent.com/oasisfalls/Aneeta_IndividualBlog/master/Frame%201%20(1).jpg)
+
+**November 4th, 2020**
+
 ## :crystal_ball: Week 7
 This week I spent more time reaching out to friends who would be interested in playtesting so that when we are ready to playtest we have a wider variety of players. Otherwise, I just made notes of our meeting this week and did some C# tutorials for Unity.
 
