@@ -1,6 +1,12 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 10
+
+This week I just focused on our GDD and kept track of what we were going to do for our beta code in a doc, as well as noting which team member will be doing what. 
+
+**November 19th, 2020**
+
 ## :crystal_ball: Week 9
 
 No progress this week! But lots to come next week!
