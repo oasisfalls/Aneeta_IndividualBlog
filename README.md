@@ -1,6 +1,12 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 11
+
+This week was extremely busy, and my task was to work on the GDD and Playtesting report while also assissting in further iteration ideas and UI elements. I have also been in contact with a group of student composers these last couple of weeks to create a custom soundtrack for our game and have been providing them with feedback to assure that the music matches the aesthetic of our game. They will also be providing SFX. I've been creating meeting notes every time we have a meeting to make sure that everyone in the group has a guideline of what we are accomplishing this week, internal deadlines, and any other details about what we are implementing.  
+
+**November 27th, 2020**
+
 ## :crystal_ball: Week 10
 
 This week I just focused on our GDD and kept track of what we were going to do for our beta code in a doc, as well as noting which team member will be doing what. 
