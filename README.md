@@ -1,6 +1,13 @@
 # Aneeta's Blog
 [Back to Team Blog](https://github.com/oasisfalls/IAT410_SmoothBrain)
 
+## :crystal_ball: Week 12
+
+For the final week I did the gold code report, trailer, and assisted in making minor adjustment in each of the rooms to speed up the time for my teammates. Since we had 42 rooms it was very time consuming when we made one adjustment as there was no way of adjusting them all at once. I also retrieved the music from the students who created the original scores and sound effects and made sure to forward that to my team to implement properly.
+Although I was more on the reports side of the process of this game, I was involved in a lot of the ideation and brainstorming every week and I think we managed to make something pretty cool!! Thanks for a great semester, it's been really tough but we made it!
+
+**December 4th, 2020**
+
 ## :crystal_ball: Week 11
 
 This week was extremely busy, and my task was to work on the GDD and Playtesting report while also assissting in further iteration ideas and UI elements. I have also been in contact with a group of student composers these last couple of weeks to create a custom soundtrack for our game and have been providing them with feedback to assure that the music matches the aesthetic of our game. They will also be providing SFX. I've been creating meeting notes every time we have a meeting to make sure that everyone in the group has a guideline of what we are accomplishing this week, internal deadlines, and any other details about what we are implementing.  
